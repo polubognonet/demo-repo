@@ -1,3 +1,1 @@
-This is a test  Github welcome page.
-
-LOREM!
+This is a test  Github welcome 
